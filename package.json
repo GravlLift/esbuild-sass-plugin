@@ -9,11 +9,6 @@
     "sass",
     "scss"
   ],
-  "files": [
-    "lib",
-    "LICENSE",
-    "README.MD"
-  ],
   "author": "Gianluca Romeo <glromeo@gmail.com> (https://github.com/glromeo/esbuild-sass-plugin)",
   "license": "MIT",
   "bugs": {
